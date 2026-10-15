@@ -346,7 +346,7 @@
   <string name="install_block_modules_summary">Nombres separados por comas de módulos a evitar su carga al arrancar, ej: oplus_secure_guard. Deje en blanco para no bloquear nada.</string>
   <string name="install_block_modules_invalid">Los nombres de módulos sólo pueden contener letras, números y guiones bajos, cada uno con máximo 64 caracteres.</string>
   <string name="repo_edit_title">Editar repositorio</string>
-  <string name="repo_enter_json_url">Introducir URL del JSON del repositorio del módulo:</string>
+  <string name="repo_enter_json_url">Introducir la URL JSON de repositorio del módulo:</string>
   <string name="repo_apply">Aplicar</string>
   <string name="repo_download">Descargar</string>
   <string name="repo_download_error">Error descargando el módulo: %1$s</string>
